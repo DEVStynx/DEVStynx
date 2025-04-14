@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  schedule: [{ cron: "0 0 * * *" }] # läuft täglich
-  workflow_dispatch:              # manuelles Starten möglich
+  schedule: [{ cron: "0 0 * * *" }]  # täglich um Mitternacht
+  workflow_dispatch:
 
 jobs:
   github-metrics:
@@ -12,5 +12,22 @@ jobs:
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
+          
+          # Basis-Module
+          base: header, activity, repositories
+
+          # Einstellungen
           config_timezone: Europe/Berlin
+          config_display: columns
+
+          # Aktivste Repositories anzeigen (letzte Commits, Projekte)
+          plugin_repositories: yes
+          plugin_repositories_featured: 0   # 0 = automatisch top 3 aktivste
+          plugin_repositories_pinned: yes   # zeigt gepinnte Repos (falls du welche hast)
+          
+          # Letzte Aktivität (inkl. Commit-Zeiten)
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_visibility: all
