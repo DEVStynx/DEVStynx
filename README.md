@@ -52,7 +52,11 @@ JPCloud is an intuitive cloud solution built with Java Spring Boot. The system e
 
 
 ## 📊 Stats
-![GitHub Metrics](https://raw.githubusercontent.com/DEVStynx/DEVStynx/main/github-metrics.svg?t=1)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DEVStynx/DEVStynx/main/github-metrics.svg?t=2" width="100%" alt="GitHub Metrics">
+</p>
+
+
 
 
 
