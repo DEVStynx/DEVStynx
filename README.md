@@ -2,14 +2,65 @@
 
   
 
-I'm a still learning student. I always want to learn new things across programming. I'm currently more into Backend but also Frontend plays an important Role. I mainly develop Stuff in Java, but I'm trying to use more c based languages.
+I'm a still learning student. I always want to learn new things across programming. I'm currently more in Backend but also Frontend plays an important Role. I mainly develop Minecraft Plugins/Mods and other interesting Stuff.
 
 ## ⌨️Most used Languages and Tools
-<p  dir="auto"><a  target="_blank"  rel="noopener noreferrer nofollow"  href="https://camo.githubusercontent.com/3e847197135650693a0bcf2a437d6ac42828ca1604c27f6cb5d9e2b777276147/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"><img  src="https://camo.githubusercontent.com/3e847197135650693a0bcf2a437d6ac42828ca1604c27f6cb5d9e2b777276147/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"  data-canonical-src="https://img.shields.io/badge/-HTML-blue?style=for-the-badge&amp;logo=html5&amp;logoColor=white"  style="max-width: 100%;"></a>  <a  target="_blank"  rel="noopener noreferrer nofollow"  href="https://camo.githubusercontent.com/c4954076bd411d04bbdedec69a7d768aedb498801b6b1380cd46466769308102/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d43535333266c6f676f436f6c6f723d7768697465"><img  src="https://camo.githubusercontent.com/c4954076bd411d04bbdedec69a7d768aedb498801b6b1380cd46466769308102/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d43535333266c6f676f436f6c6f723d7768697465"  data-canonical-src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&amp;logo=CSS3&amp;logoColor=white"  style="max-width: 100%;"></a>  <a  target="_blank"  rel="noopener noreferrer nofollow"  href="https://camo.githubusercontent.com/a947ffb7b973d421851527d56a98e3bdf8d496e1ec8943a60b7496252d327685/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465"><img  src="https://camo.githubusercontent.com/a947ffb7b973d421851527d56a98e3bdf8d496e1ec8943a60b7496252d327685/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465"  data-canonical-src="https://img.shields.io/badge/-Javascript-blue?style=for-the-badge&amp;logo=javascript&amp;logoColor=white"  style="max-width: 100%;"></a>  <a  target="_blank"  rel="noopener noreferrer nofollow"  href="https://camo.githubusercontent.com/a522f1464ab5ff1959e98e7d2f6119fecf1dff0d17f4377055a26d774141439a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465"><img  src="https://camo.githubusercontent.com/a522f1464ab5ff1959e98e7d2f6119fecf1dff0d17f4377055a26d774141439a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465"  data-canonical-src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&amp;logo=java&amp;logoColor=white"  style="max-width: 100%;"></a>  <a  target="_blank"  rel="noopener noreferrer nofollow"  href="https://camo.githubusercontent.com/3ac8ef992e913a076ef1840f7ed6a63d69bb80ac0b63bf987e37684180c77fd1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d4d5953514c266c6f676f436f6c6f723d7768697465"><img  src="https://camo.githubusercontent.com/3ac8ef992e913a076ef1840f7ed6a63d69bb80ac0b63bf987e37684180c77fd1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d4d5953514c266c6f676f436f6c6f723d7768697465"  data-canonical-src="https://img.shields.io/badge/-SQL-blue?style=for-the-badge&amp;logo=MYSQL&amp;logoColor=white"  style="max-width: 100%;"></a>  <a  target="_blank"  rel="noopener noreferrer nofollow"  href="https://camo.githubusercontent.com/00ba3d40bf6b288010a071ef5af6ae76852b5869f9224803cc1783380d49bb5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d61726b646f776e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d4d61726b646f776e266c6f676f436f6c6f723d7768697465"><img  src="https://camo.githubusercontent.com/00ba3d40bf6b288010a071ef5af6ae76852b5869f9224803cc1783380d49bb5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d61726b646f776e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d4d61726b646f776e266c6f676f436f6c6f723d7768697465"  data-canonical-src="https://img.shields.io/badge/-Markdown-blue?style=for-the-badge&amp;logo=Markdown&amp;logoColor=white"  style="max-width: 100%;"></a>  <a  target="_blank"  rel="noopener noreferrer nofollow"  href="https://camo.githubusercontent.com/9dff08fc00e6ca07c2768ea04e98381e3567089cfab1ea7d0c63cddef9990568/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a534f4e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d4a534f4e266c6f676f436f6c6f723d7768697465"><img  src="https://camo.githubusercontent.com/9dff08fc00e6ca07c2768ea04e98381e3567089cfab1ea7d0c63cddef9990568/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a534f4e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d4a534f4e266c6f676f436f6c6f723d7768697465"  data-canonical-src="https://img.shields.io/badge/-JSON-blue?style=for-the-badge&amp;logo=JSON&amp;logoColor=white"  style="max-width: 100%;"></a>  <a  target="_blank"  rel="noopener noreferrer nofollow"  href="https://camo.githubusercontent.com/6bda5980c3edd3fb0017f76b2457707cb2a99ae06b921b8ff8b109140d0a1342/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d476974266c6f676f436f6c6f723d7768697465"><img  src="https://camo.githubusercontent.com/6bda5980c3edd3fb0017f76b2457707cb2a99ae06b921b8ff8b109140d0a1342/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d476974266c6f676f436f6c6f723d7768697465"  data-canonical-src="https://img.shields.io/badge/-Git-blue?style=for-the-badge&amp;logo=Git&amp;logoColor=white"  style="max-width: 100%;"></a>
+![Static Badge](https://img.shields.io/badge/-Java-%2359666C?logo=openjdk) ![Static Badge](https://img.shields.io/badge/-C%2B%2B-%2359666C?logo=cplusplus) ![Static Badge](https://img.shields.io/badge/-Python-%2359666C?logo=python) ![Static Badge](https://img.shields.io/badge/-Javascript-%2359666C?logo=javascript) ![Static Badge](https://img.shields.io/badge/-Html-%2359666C?logo=html5) ![Static Badge](https://img.shields.io/badge/-Css-%2359666C?logo=css)  ![Static Badge](https://img.shields.io/badge/-Markdown-%2359666C?logo=markdown)
+## 🛠️Frameworks
+![Static Badge](https://img.shields.io/badge/-Spring%20Boot-%2359666C?logo=springboot) ![Static Badge](https://img.shields.io/badge/-Hibernate-%2359666C?logo=hibernate) ![Static Badge](https://img.shields.io/badge/-Spigot-%2359666C?logo=spigotmc) ![Static Badge](https://img.shields.io/badge/-Qt-%2359666C?logo=qt)
+
+## 💾Database
+![Static Badge](https://img.shields.io/badge/-MySQL-%2359666C?logo=mysql) ![Static Badge](https://img.shields.io/badge/-PostgreSQL-%2359666C?logo=postgresql&logoColor=rgb(255%2C255%2C255))  
+
+
 
 <br></p>
+## 📝 Most Recent Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      
+### 🛠️ [StynxyxyAPI](https://github.com/DEVStynx/StynxyxyAPI)
+An API built for PaperMC, which makes it much easier to connect to databases, create custom Configurations and much more. The API also comes with an auto-registration system.
+
+**Tech:** `Java`, `Spigot`, `MySQL`, `PaperMC`
+
+![Stars](https://img.shields.io/github/stars/DEVStynx/StynxyxyAPI?style=social)  
+![Last Commit](https://img.shields.io/github/last-commit/DEVStynx/StynxyxyAPI?color=5865F2)
+
+---
+
+</td>
+    <td width="50%">
+
+### 🌐 [JPCloud](https://github.com/DEVStynx/jpcloud)
+JPCloud is an intuitive cloud solution built with Java Spring Boot. The system enables file upload and download to either a storage medium or a database.
+
+**Tech:** `Java`, `Spring Boot`, `PostgreSQL`, `Html`, `Css`, `Javascript`
+
+![Stars](https://img.shields.io/github/stars/DEVStynx/jpcloud?style=social)  
+![Last Commit](https://img.shields.io/github/last-commit/DEVStynx/jpcloud?color=5865F2)
+
+---
+
+</td>
+  </tr>
+</table>
+
+
+
 
 ## 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEVStynx&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![GitHub Metrics](https://raw.githubusercontent.com/DEVStynx/DEVStynx/main/github-metrics.svg?t=1)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVStynx&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="DEVStynx's GitHub Stats" />
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEVStynx&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+
+
+
+
+
