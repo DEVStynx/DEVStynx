@@ -1,7 +1,7 @@
 name: Metrics
 
 on:
-  schedule: [{ cron: "0 0 * * *" }] # Täglich um Mitternacht
+  schedule: [{ cron: "0 0 * * *" }]  # Täglich um Mitternacht (UTC)
   workflow_dispatch:
 
 jobs:
@@ -15,23 +15,39 @@ jobs:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Basis-Daten anzeigen
+          # Basisdaten anzeigen
           base: header, activity, repositories
 
-          # Zeitzone und Anzeigeeinstellungen
+          # Anzeigeeinstellungen
           config_timezone: Europe/Berlin
           config_display: columns
 
-          # Aktivität: Letzte Commits, PRs, etc.
+          # Aktivität: Letzte Commits, PRs, Issues etc.
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_visibility: all
 
-          # Zeige automatisch relevante Repositories
+          # Repositories anzeigen
           plugin_repositories: yes
-          plugin_repositories_pinned: yes  # Deine gepinnten Projekte
-          plugin_repositories_featured: "" # Leerlassen = automatisch auswählen
-          repositories_affiliations: owner
+          plugin_repositories_pinned: yes
+          plugin_repositories_featured: ""
+          repositories_affiliations: owner, collaborator, organization_member
           repositories_forks: false
+
+          # Sprachen-Plugin
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_limit: 6
+
+          # Coding-Gewohnheiten
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_from: 200
+
+          # Stargazer (Follower der Repos)
+          plugin_stargazers: yes
+
+          # Lines of Code (grob geschätzt)
+          plugin_lines: yes
