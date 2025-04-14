@@ -32,7 +32,7 @@ jobs:
           # Repositories anzeigen
           plugin_repositories: yes
           plugin_repositories_pinned: yes
-          plugin_repositories_featured: ""
+          plugin_repositories_featured: StynxyxyAPI, jpcloud
           repositories_affiliations: owner, collaborator, organization_member
           repositories_forks: false
 
