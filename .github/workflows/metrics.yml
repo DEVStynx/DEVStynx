@@ -1,33 +1,37 @@
 name: Metrics
+
 on:
-  schedule: [{ cron: "0 0 * * *" }]  # täglich um Mitternacht
+  schedule: [{ cron: "0 0 * * *" }] # Täglich um Mitternacht
   workflow_dispatch:
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+
     steps:
-      - name: GitHub Metrics
+      - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          
-          # Basis-Module
+
+          # Basis-Daten anzeigen
           base: header, activity, repositories
 
-          # Einstellungen
+          # Zeitzone und Anzeigeeinstellungen
           config_timezone: Europe/Berlin
           config_display: columns
 
-          # Aktivste Repositories anzeigen (letzte Commits, Projekte)
-          plugin_repositories: yes
-          plugin_repositories_featured: 0   # 0 = automatisch top 3 aktivste
-          plugin_repositories_pinned: yes   # zeigt gepinnte Repos (falls du welche hast)
-          
-          # Letzte Aktivität (inkl. Commit-Zeiten)
+          # Aktivität: Letzte Commits, PRs, etc.
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_visibility: all
+
+          # Zeige automatisch relevante Repositories
+          plugin_repositories: yes
+          plugin_repositories_pinned: yes  # Deine gepinnten Projekte
+          plugin_repositories_featured: "" # Leerlassen = automatisch auswählen
+          repositories_affiliations: owner
+          repositories_forks: false
