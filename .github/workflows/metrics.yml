@@ -44,6 +44,6 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_indepth: yes
           
-          plugin_lines: yes                # Codezeilen-Statistik
+          plugin_lines: false                # Codezeilen-Statistik
                      
 
