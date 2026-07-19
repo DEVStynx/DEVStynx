@@ -44,7 +44,7 @@ Always curious, always learning, and always looking for the next interesting pro
     <td width="50%" valign="top">
 
 ### 🤖 [Code-Reviewer](https://github.com/DEVStynx/Code-Reviewer)
-Eine KI-gestützte Code-Review-Webanwendung auf Basis von Flask und OpenAI. Code einfügen oder Dateien hochladen und strukturiertes Feedback erhalten — kategorisiert nach Schweregrad: kritische Bugs, größere Probleme, kleinere Probleme und Style-Hinweise.
+An AI-powered code review web application built with Flask and OpenAI. Paste or upload your code files and receive structured feedback categorized by severity — including critical bugs, major issues, minor problems, and style suggestions.
 
 **Tech:** `Flask` `Python` `JWT` `SQL` `HTML/CSS`
 
@@ -55,7 +55,7 @@ Eine KI-gestützte Code-Review-Webanwendung auf Basis von Flask und OpenAI. Code
     <td width="50%" valign="top">
 
 ### 🌐 [JPCloud](https://github.com/DEVStynx/jpcloud)
-Eine intuitive Cloud-Lösung, gebaut mit Java Spring Boot. Das System ermöglicht den Upload und Download von Dateien in ein Speichermedium oder eine Datenbank.
+JPCloud is an intuitive cloud solution built with Java Spring Boot. The system enables file upload and download to either a storage medium or a database.
 
 **Tech:** `Java` `Spring Boot` `PostgreSQL` `HTML` `CSS` `Javascript`
 
