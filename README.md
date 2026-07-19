@@ -1,71 +1,71 @@
-# 🏙️Hello, I am Jonas
+<h1 align="center">🏙️ Hey, ich bin Jonas 👋</h1>
 
-  
+<p align="center">
+  <i>Student · Backend-affiner Entwickler · Always looking for new opportunities</i>
+</p>
 
-I'm a still learning student. I always want to learn new things across programming. I'm currently more in Backend but also Frontend plays an important Role. I mainly develop Minecraft Plugins/Mods and other interesting Stuff.
+<p align="center">
+  Software developer passionate about backend development, clean code, and continuous learning. I enjoy exploring new technologies, building practical solutions, and working on projects that challenge me to improve my skills.
 
-## ⌨️Most used Languages and Tools
-![Static Badge](https://img.shields.io/badge/-Java-%2359666C?logo=openjdk) ![Static Badge](https://img.shields.io/badge/-C%2B%2B-%2359666C?logo=cplusplus) ![Static Badge](https://img.shields.io/badge/-Python-%2359666C?logo=python) ![Static Badge](https://img.shields.io/badge/-Javascript-%2359666C?logo=javascript) ![Static Badge](https://img.shields.io/badge/-Html-%2359666C?logo=html5) ![Static Badge](https://img.shields.io/badge/-Css-%2359666C?logo=css)  ![Static Badge](https://img.shields.io/badge/-Markdown-%2359666C?logo=markdown)
-## 🛠️Frameworks
-![Static Badge](https://img.shields.io/badge/-Spring%20Boot-%2359666C?logo=springboot) ![Static Badge](https://img.shields.io/badge/-Hibernate-%2359666C?logo=hibernate) ![Static Badge](https://img.shields.io/badge/-Spigot-%2359666C?logo=spigotmc) ![Static Badge](https://img.shields.io/badge/-Qt-%2359666C?logo=qt)
+Always curious, always learning, and always looking for the next interesting problem to solve.
+</p>
 
-## 💾Database
-![Static Badge](https://img.shields.io/badge/-MySQL-%2359666C?logo=mysql) ![Static Badge](https://img.shields.io/badge/-PostgreSQL-%2359666C?logo=postgresql&logoColor=rgb(255%2C255%2C255))  
+<br>
 
+## ⌨️ Sprachen & Tools
 
+![Static Badge](https://img.shields.io/badge/-Java-%2359666C?logo=openjdk)
+![Static Badge](https://img.shields.io/badge/-C%2B%2B-%2359666C?logo=cplusplus)
+![Static Badge](https://img.shields.io/badge/-Python-%2359666C?logo=python)
+![Static Badge](https://img.shields.io/badge/-Javascript-%2359666C?logo=javascript)
+![Static Badge](https://img.shields.io/badge/-Html-%2359666C?logo=html5)
+![Static Badge](https://img.shields.io/badge/-Css-%2359666C?logo=css)
+![Static Badge](https://img.shields.io/badge/-Markdown-%2359666C?logo=markdown)
 
-<br></p>
-## 📝 Most Recent Projects
+## 🛠️ Frameworks
+
+![Static Badge](https://img.shields.io/badge/-Spring%20Boot-%2359666C?logo=springboot)
+![Static Badge](https://img.shields.io/badge/-Hibernate-%2359666C?logo=hibernate)
+![Static Badge](https://img.shields.io/badge/-Spigot-%2359666C?logo=spigotmc)
+![Static Badge](https://img.shields.io/badge/-Qt-%2359666C?logo=qt)
+![Static Badge](https://img.shields.io/badge/-Flask-%2359666C?logo=flask)
+
+## 💾 Datenbanken
+
+![Static Badge](https://img.shields.io/badge/-MySQL-%2359666C?logo=mysql)
+![Static Badge](https://img.shields.io/badge/-PostgreSQL-%2359666C?logo=postgresql&logoColor=rgb(255%2C255%2C255))
+
+<br>
+
+## 📝 Aktuelle Projekte
 
 <table>
   <tr>
-    <td width="50%">
-      
-### 🛠️ [StynxyxyAPI](https://github.com/DEVStynx/StynxyxyAPI)
-An API built for PaperMC, which makes it much easier to connect to databases, create custom Configurations and much more. The API also comes with an auto-registration system.
+    <td width="50%" valign="top">
 
-**Tech:** `Java`, `Spigot`, `MySQL`, `PaperMC`
+### 🤖 [Code-Reviewer](https://github.com/DEVStynx/Code-Reviewer)
+Eine KI-gestützte Code-Review-Webanwendung auf Basis von Flask und OpenAI. Code einfügen oder Dateien hochladen und strukturiertes Feedback erhalten — kategorisiert nach Schweregrad: kritische Bugs, größere Probleme, kleinere Probleme und Style-Hinweise.
 
-![Stars](https://img.shields.io/github/stars/DEVStynx/StynxyxyAPI?style=social)  
-![Last Commit](https://img.shields.io/github/last-commit/DEVStynx/StynxyxyAPI?color=5865F2)
+**Tech:** `Flask` `Python` `JWT` `SQL` `HTML/CSS`
 
----
+![Stars](https://img.shields.io/github/stars/DEVStynx/Code-Reviewer?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/DEVStynx/Code-Reviewer?color=5865F2)
 
 </td>
-    <td width="50%">
+    <td width="50%" valign="top">
 
 ### 🌐 [JPCloud](https://github.com/DEVStynx/jpcloud)
-JPCloud is an intuitive cloud solution built with Java Spring Boot. The system enables file upload and download to either a storage medium or a database.
+Eine intuitive Cloud-Lösung, gebaut mit Java Spring Boot. Das System ermöglicht den Upload und Download von Dateien in ein Speichermedium oder eine Datenbank.
 
-**Tech:** `Java`, `Spring Boot`, `PostgreSQL`, `Html`, `Css`, `Javascript`
+**Tech:** `Java` `Spring Boot` `PostgreSQL` `HTML` `CSS` `Javascript`
 
-![Stars](https://img.shields.io/github/stars/DEVStynx/jpcloud?style=social)  
+![Stars](https://img.shields.io/github/stars/DEVStynx/jpcloud?style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/DEVStynx/jpcloud?color=5865F2)
-
----
 
 </td>
   </tr>
 </table>
 
+<br>
 
-
-
-## 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEVStynx&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DEVStynx/DEVStynx/main/github-metrics.svg?t=2" width="100%" alt="GitHub Metrics">
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">✨ Danke fürs Vorbeischauen!</p>
