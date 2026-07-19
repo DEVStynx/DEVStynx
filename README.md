@@ -1,4 +1,4 @@
-<h1 align="center">🏙️ Hey, ich bin Jonas 👋</h1>
+<h1 align="center">🏙️ Hey, I'm Jonas 👋</h1>
 
 <p align="center">
   <i>Student · Backend-affiner Entwickler · Always looking for new opportunities</i>
@@ -12,7 +12,7 @@ Always curious, always learning, and always looking for the next interesting pro
 
 <br>
 
-## ⌨️ Sprachen & Tools
+## ⌨️ Languages & Tools
 
 ![Static Badge](https://img.shields.io/badge/-Java-%2359666C?logo=openjdk)
 ![Static Badge](https://img.shields.io/badge/-C%2B%2B-%2359666C?logo=cplusplus)
@@ -30,14 +30,14 @@ Always curious, always learning, and always looking for the next interesting pro
 ![Static Badge](https://img.shields.io/badge/-Qt-%2359666C?logo=qt)
 ![Static Badge](https://img.shields.io/badge/-Flask-%2359666C?logo=flask)
 
-## 💾 Datenbanken
+## 💾 Databases
 
 ![Static Badge](https://img.shields.io/badge/-MySQL-%2359666C?logo=mysql)
 ![Static Badge](https://img.shields.io/badge/-PostgreSQL-%2359666C?logo=postgresql&logoColor=rgb(255%2C255%2C255))
 
 <br>
 
-## 📝 Aktuelle Projekte
+## 📝 Recent Projects
 
 <table>
   <tr>
@@ -68,4 +68,4 @@ JPCloud is an intuitive cloud solution built with Java Spring Boot. The system e
 
 <br>
 
-<p align="center">✨ Danke fürs Vorbeischauen!</p>
+<p align="center">✨ Thanks for stopping by!</p>
